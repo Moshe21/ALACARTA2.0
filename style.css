@@ -763,3 +763,8 @@
   .button:hover {
     background-color: #ffffff44; /* Color de fondo al pasar el ratón */
   }
+
+.class{
+  background-color: #fff
+
+}
