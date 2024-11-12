@@ -300,6 +300,7 @@
     align-items: center;
     gap: 64px;
     width: 100%;
+    padding-right: 10%;
   }
   
   .skill .container .content .skills {
@@ -312,13 +313,13 @@
   }
   
   .skill .container .content .skills .skill-box {
-    padding: 4px;
+    padding: 20px;;
     border: 2px solid #fff;
-    border-radius: 8px;
-    display: flex;
-    justify-content: center;
+    border-radius: 20px;
+    display: flexbox;
+    justify-content:box;
     align-items: center;
-    height: 100px;
+    width: 150px;
     filter: grayscale(100);
     transition: all 0.2s linear;
   }
@@ -766,5 +767,14 @@
 
 .class{
   background-color: #fff
+
+}
+#foto_MosheZ{
+  display:flexbox;
+  width: 200px;
+}
+#foto_SantiagoG{
+  display:flexbox;
+  width: 200px;
 
 }
